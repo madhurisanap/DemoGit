@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.i("Mainactivity","Onccreate");
+
+        Log.i("hello","hi");
     }
 }
